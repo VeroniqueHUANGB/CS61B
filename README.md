@@ -1,7 +1,7 @@
 **week3**
 
 - [x] Linked List Array Discussion 3
-- [ ] Lab3: Unit Testing with JUnit, Debugging
+- [ ] Lab3: Unit Testing with JUnit, Debugging **Pending**
 - [x] Project 1A: Data Structures
 - [x] Lecture 6
 - [x] Lecture 7
