@@ -2,7 +2,7 @@
 
 - [x] Linked List Array Discussion 3
 - [ ] Lab3: Unit Testing with JUnit, Debugging
-- [ ] Project 1A: Data Structures
+- [x] Project 1A: Data Structures
 - [x] Lecture 6
 - [x] Lecture 7
 
