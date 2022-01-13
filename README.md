@@ -16,7 +16,7 @@
 
 - [x] Lecture 10: Subtype Polymorphism vs. HoFs
 
-- [ ] Interitance Discussion 4
+- [x] Interitance Discussion 4
 
 - [ ] Lab 4: Project 1A Peer Code Review
 
