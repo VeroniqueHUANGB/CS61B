@@ -20,7 +20,7 @@
 
 - [ ] Lab 4: Project 1A Peer Code Review
 
-- [ ] Project 1B: Testing and HoFs
+- [x] Project 1B: Testing and HoFs
 
 - [ ] Project 1 Gold: Autograding
 
