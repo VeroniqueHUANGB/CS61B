@@ -12,9 +12,9 @@
 
 - [x] Lecture 8: Inheritance, Implements
 
-- [ ] Lecture 9: Extends, Casting, Higher Order Functions 
+- [x] Lecture 9: Extends, Casting, Higher Order Functions 
 
-- [ ] Lecture 10: Subtype Polymorphism vs. HoFs
+- [x] Lecture 10: Subtype Polymorphism vs. HoFs
 
 - [ ] Interitance Discussion 4
 
